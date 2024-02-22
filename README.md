@@ -1,7 +1,7 @@
-# Music recommendation engine using spotify API and GPT interface
+# Music recommendation engine using spotify API and feedback loop integration to create playlists
 
 ## The Problem area:
-  As someone who is always looking for new music, I like to learn about new music and artists from various sources whether that be through word of mouth or browsing Spotify. Generally, larger more mainstream artists prevail meaning it is often difficult to break away from mainstream recommendations and discover hidden gems or emerging artists. I would like to look into how we can recommend the perfect song, artist, or genre of music given a consumer's preferences and allow the user to tailor and have as much input into specifying the request as possible. 
+  As someone who is always looking for new music, I like to learn about new music and artists from various sources whether that be through word of mouth or browsing Spotify. Generally, larger more mainstream artists prevail meaning it is often difficult to break away from mainstream recommendations and discover hidden gems or emerging artists. I would like to look into how we can recommend the perfect song, artist, or genre of music given a consumer's preferences and allow the user to tailor and have as much input into specifying the request as possible and collate this in a spotify playlist.
 
 ## The User: 
   Since Q4 2015, the number of music streaming subscribers has risen from 68 million to 616.2 million in Q2 2022 (Götting, 2023) - an increase of almost 10x. With global recorded music revenue hitting $31.2 Billion, here is a huge demand for music and therefore for the identification of new music. 
@@ -9,13 +9,7 @@
   With so much music and consumer choice, this project will be relevant to those who actively seek out new music and artists. This could include people who enjoy exploring different genres, staying updated on emerging artists, or simply looking for fresh and personalised music - It could even branch further to producers or events looking for something new. They would benefit from greater personalisation, the ability to discover new artists, more time-efficient exploration and an increased probability of finding music that resonates with their tastes.
 
 ##The Big Idea: 
- The approach involves a Generative Pre-training Transformer or text processing algorithm to interface with the user, whereby they can search, for example, “Show me artists that are similar to MF Doom” or “If I like hip hop what other genres am I likely to enjoy?” and an output will be provided. This will likely be via a similarity network of either audio features or other characteristics of the music.
-
-The Project will therefore consist of in simple terms two models:
-
-1) Text transformer that identifies what the user is trying to obtain. In essence, this will be whether the user is referring to a song, artist or genre and then whether they are looking for something similar, or different and in what way.
-
-2) A recommendation engine that actions the user’s command and returns a list of suggestions.
+ The approach involves a text interface on a web app, whereby they can input the song name they would like to base their playlist upon, from this a single song recommendation can be made which the user can choose to either add or reject. A second song will then be suggested based on the average vector of characteristics in the playlist. A series of models will be tested, however, this will ultimately be determinde by the properties of the data.
 
 I will look to then tie this into a web app to allow the user to interface.
 
