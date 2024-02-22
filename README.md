@@ -8,7 +8,7 @@
 
   With so much music and consumer choice, this project will be relevant to those who actively seek out new music and artists. This could include people who enjoy exploring different genres, staying updated on emerging artists, or simply looking for fresh and personalised music - It could even branch further to producers or events looking for something new. They would benefit from greater personalisation, the ability to discover new artists, more time-efficient exploration and an increased probability of finding music that resonates with their tastes.
 
-##The Big Idea: 
+## The Big Idea: 
  The approach involves a text interface on a web app, whereby they can input the song name they would like to base their playlist upon, from this a single song recommendation can be made which the user can choose to either add or reject. A second song will then be suggested based on the average vector of characteristics in the playlist. A series of models will be tested, however, this will ultimately be determinde by the properties of the data.
 
 I will look to then tie this into a web app to allow the user to interface.
