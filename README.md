@@ -28,39 +28,39 @@ httpswww.kaggle.com/datasets/nicolasfierro/spotify-1986-2023
 
 11450 rows , 37 columns listed below:
 
-track_id: The unique identifier of the song in the Spotify database.
-track_name: The name of the song.
-popularity: The song's popularity level on Spotify (popularity score).
-available_markets: The markets where the song is available for playback.
-disc_number: The disc number to which the song belongs on an album.
-duration_ms: The duration of the song in milliseconds.
-explicit: Indicates whether the song contains explicit content (True or False).
-track_number: The track number of the song on the album.
-href: A URL or link related to the song.
-album_id: The unique identifier of the album to which the song belongs.
-album_name: The name of the album.
-album_release_date: The release date of the album.
-album_type: The type of album (e.g., "album," "single," "compilation," etc.).
-album_total_tracks: The total number of songs on the album.
-artists_names: The names of the artists who perform the song (there can be multiple, separated by semicolons).
-artists_ids: The unique identifiers of the artists who perform the song (there can be multiple, separated by semicolons).
-principal_artist_id: The unique identifier of the principal artist (usually the first artist in the list).
-principal_artist_name: The name of the principal artist.
-artist_genres: The music genres associated with the principal artist.
-principal_artist_followers: The number of followers of the principal artist on Spotify.
-acousticness: An indicator of the song's acoustic characteristics.
-analysis_url: A URL providing access to song analysis details.
-danceability: An indicator of how danceable the song is.
-energy: The perceived energy of the song.
-instrumentalness: An indicator of the presence of instrumental elements in the song.
-key: The musical key of the song.
-liveness: An indicator of the likelihood that the song was performed live.
-loudness: The loudness of the song.
-mode: The musical mode of the song.
-speechiness: An indicator of the amount of speech in the song.
-tempo: The tempo of the song.
-time_signature: The time signature of the song.
-valence: A measure of the positivity of the song.
-year: The year in which the song was released. It is of integer type (int64).
-duration_min: The duration of the song in minutes, rather than milliseconds. It is of float type (float64).
+- track_id: The unique identifier of the song in the Spotify database.
+- track_name: The name of the song.
+- popularity: The song's popularity level on Spotify (popularity score).
+- available_markets: The markets where the song is available for playback.
+- disc_number: The disc number to which the song belongs on an album.
+- duration_ms: The duration of the song in milliseconds.
+- explicit: Indicates whether the song contains explicit content (True or False).
+- track_number: The track number of the song on the album.
+- href: A URL or link related to the song.
+- album_id: The unique identifier of the album to which the song belongs.
+- album_name: The name of the album.
+- album_release_date: The release date of the album.
+- album_type: The type of album (e.g., "album," "single," "compilation," etc.).
+- album_total_tracks: The total number of songs on the album.
+- artists_names: The names of the artists who perform the song (there can be multiple, separated by semicolons).
+- artists_ids: The unique identifiers of the artists who perform the song (there can be multiple, separated by semicolons).
+- principal_artist_id: The unique identifier of the principal artist (usually the first artist in the list).
+- principal_artist_name: The name of the principal artist.
+- artist_genres: The music genres associated with the principal artist.
+- principal_artist_followers: The number of followers of the principal artist on Spotify.
+- acousticness: An indicator of the song's acoustic characteristics.
+- analysis_url: A URL providing access to song analysis details.
+- danceability: An indicator of how danceable the song is.
+- energy: The perceived energy of the song.
+- instrumentalness: An indicator of the presence of instrumental elements in the song.
+- key: The musical key of the song.
+- liveness: An indicator of the likelihood that the song was performed live.
+- loudness: The loudness of the song.
+- mode: The musical mode of the song.
+- speechiness: An indicator of the amount of speech in the song.
+- tempo: The tempo of the song.
+- time_signature: The time signature of the song.
+- valence: A measure of the positivity of the song.
+- year: The year in which the song was released. It is of integer type (int64).
+- duration_min: The duration of the song in minutes, rather than milliseconds. It is of float type (float64).
 
