@@ -23,8 +23,8 @@ I will look to then tie this into a web app to allow the user to interface.
 While the impact may be difficult to entirely quantify, it will result in a improved user experience. This style of recommendation engine would also allow a more specified and user-led music discovery experience, cutting through the shroud of mystery currently surroundign most recommendation engines.
 
 ## The data:
-A dataset of songs is also required to draw recommendations from.
-httpswww.kaggle.com/datasets/nicolasfierro/spotify-1986-2023
+A dataset of 1.2 million songs gathered using spotify API will be used.
+https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
 
 11450 rows , 37 columns listed below:
 
