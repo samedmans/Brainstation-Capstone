@@ -4,7 +4,7 @@
   As someone who is always looking for new music, I like to learn about new music and artists from various sources whether that be through word of mouth or browsing Spotify. Generally, larger more mainstream artists prevail meaning it is often difficult to break away from mainstream recommendations and discover hidden gems or emerging artists. I would like to look into how we can recommend the perfect song, artist, or genre of music given a consumer's preferences and allow the user to tailor and have as much input into specifying the request as possible and collate this in a spotify playlist.
 
 ## The User: 
-  Since Q4 2015, the number of music streaming subscribers has risen from 68 million to 616.2 million in Q2 2022 (Götting, 2023) - an increase of almost 10x. With global recorded music revenue hitting $31.2 Billion, here is a huge demand for music and therefore for the identification of new music. 
+  Since Q4 2015, the number of music streaming subscribers has risen from 68 million to 616.2 million in Q2 2022 - an increase of almost 10x. With global recorded music revenue hitting $31.2 Billion, here is a huge demand for music and therefore for the identification of new music. 
 
   With so much music and consumer choice, this project will be relevant to those who actively seek out new music and artists. This could include people who enjoy exploring different genres, staying updated on emerging artists, or simply looking for fresh and personalised music - It could even branch further to producers or events looking for something new. They would benefit from greater personalisation, the ability to discover new artists, more time-efficient exploration and an increased probability of finding music that resonates with their tastes.
 
